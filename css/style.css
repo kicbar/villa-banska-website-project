@@ -1,0 +1,27 @@
+body
+{
+	background-color: #303030;
+	color: #ffffff;
+	font-family: 'Lato', sans-serif;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    letter-spacing: 5px ;
+}
+.h1
+{
+    text-align: center;
+}
+.social-media
+{
+    float: right;
+
+}
+
+.sociallink
+{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+}
+
