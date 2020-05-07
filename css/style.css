@@ -10,15 +10,50 @@ body
     margin: 5px;
     padding: 5px;
 }
+
 .h1
 {
     text-align: center;
 }
+
 .social-media
 {
     float: right;
     margin: 5px;
 
+}
+
+a:link
+{
+    text-decoration: none;
+    display: block;
+    color: #ffffff;
+}
+a:visited
+{
+    text-decoration: none;
+    display: block;
+    color: #ffffff;
+}
+a:hover
+{
+    text-decoration: none;
+    display: block;
+    color: black;
+}
+
+a:hover
+{
+    text-decoration: none;
+    display: block;
+    color: black;
+    font-weight: 1000;
+
+}
+
+.menu-list
+{
+    list-style: none;
 }
 
 .sociallink
