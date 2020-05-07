@@ -7,6 +7,8 @@ body
     font-family: 'Dancing Script', cursive;
     font-size: 30px;
     letter-spacing: 5px ;
+    margin: 5px;
+    padding: 5px;
 }
 .h1
 {
@@ -15,6 +17,7 @@ body
 .social-media
 {
     float: right;
+    margin: 5px;
 
 }
 
